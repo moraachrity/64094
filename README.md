@@ -105,3 +105,9 @@ Submission{1..*}-has-{1..*}Assesment
     <img src="https://sketchertest.blob.core.windows.net/previewimages/5QSesIG7lDQi6UENwyz7gQ.png" alt="getMySubmissions" title="getMySubmissions" />
 </a>
 <p>Created with <a href="https://gleek.io">Gleek.io diagram maker </a></p>
+		
+		
+		<a href="https://app.gleek.io/diagrams/-072HQkeIOyHU3QRNAqeJg" target="_blank">
+    <img src="https://sketchertest.blob.core.windows.net/previewimages/-072HQkeIOyHU3QRNAqeJg.png" alt="getAllsubmissions RCD" title="getAllsubmissions RCD" />
+</a>
+<p>Created with <a href="https://gleek.io">Gleek.io diagram maker </a></p>
