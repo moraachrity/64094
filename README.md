@@ -7,6 +7,22 @@
 [
 <!ELEMENT Studentname (fname lname)>
 
+_Student
+	-Studentid
+	+getMySubmissions(StudentId: int)
+Submission
+	-Subnr: int
+	-urL: URL
+	+getFeedback(sNr)
+
+Module
+	-Code: int
+	-term: String
+
+
+Student {1}-gets all-{1}Submission
+Submission{1}-is submitted to-{1}Module
+
 ]>
   
   
