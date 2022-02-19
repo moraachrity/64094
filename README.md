@@ -25,7 +25,33 @@ Submission{1}-is submitted to-{1}Module
 
 ]>
   
-  
+  Lecturer
+	-username: int
+	-password: float
+	+getAllSubmissions(term:String)
+Student
+	-Studentid: int
+	-Studentname: String
+	+ submits()
+Submission
+	-Subnr: int
+	-url:URL
+Module
+	+code: String
+	+term: String
+Assesment
+	-Date: Date
+	+Title: String
+
+
+Student{1..*}-isenrolledon-{1..*}Module
+Module{1..*}-has-{1..*}Assesments
+Student{1}-submitted-{*}Submission
+Lecturer{1}-views-{1..*}Submission
+Submission{1..*}-has-{1..*}Assesment
+
+
+
   
    <!--XML-->
   
