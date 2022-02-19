@@ -3,7 +3,7 @@
 <xml version=¨1.0¨ encoding=¨utf-8?>
   
   <!--DTD-->
-  <!DOCTYPE name
+  <!DOCTYPE StudentAssm
 [
 <!ELEMENT Studentname (fname lname)>
 
@@ -29,14 +29,34 @@ Submission{1}-is submitted to-{1}Module
   
    <!--XML-->
   
-<date>
-  </date>
-     
-      
+<xml version=¨1.0¨ encoding=¨utf-8?>
+	
+     <student>	         
       <Studentname>
-  <fname>fnamename</fname>
-
+  <fname>¨¨</fname>
+	      
    </Studentname>
+	     <studentid>
+		     </studentid>
+		     
+	       </student>
+	
+	
+	<submission>
+		<date>
+  </date>
+	<Subnr>
+		<Subnr>
+			<url>
+				</url>
+		</submission>
+		
+		<module>
+			<code>
+				</code>
+			<term>
+				</term>
+			</module>
   
    <!--JSON-->
   
