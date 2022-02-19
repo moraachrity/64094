@@ -17,10 +17,10 @@
   </date>
      
       
-      <name>
-  <fname>Studentfirstname</fname>
-  <lname>
-    </name>
+      <Studentname>
+  <fname>fnamename</fname>
+
+   </Studentname>
   
   
   
