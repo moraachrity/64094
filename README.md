@@ -24,6 +24,8 @@ Student {1}-gets all-{1}Submission
 Submission{1}-is submitted to-{1}Module
 
 ]>
+	
+	
   
   Lecturer
 	-username: int
