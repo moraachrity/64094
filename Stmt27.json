@@ -1,0 +1,13 @@
+# 64094
+
+<!--JSON OBJECT-->
+
+<xml version=¨1.0¨ encoding=¨utf-8?>
+
+<script>
+Const Student=new student
+Student.studentid=¨stmt127¨;
+
+Submission.getAllSubmissions(student.studentId)
+</script>
+
