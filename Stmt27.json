@@ -2,13 +2,10 @@
 
 <!--JSON OBJECT-->
 
-<html>
+let submission = ´{¨Submission¨ :[´ + ´{¨StudentId¨:Stm27}]};
 
-<script>
-Const Student=new student
-Student.studentid=¨stmt127¨;
+Const obj = JSON.parse(submission);
 
-Submission.getAllSubmissions(student.studentId)
-</script>
 
-</html>
+ 
+
