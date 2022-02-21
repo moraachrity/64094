@@ -1,11 +1,13 @@
 # 64094
 
-<!--JSON OBJECT-->
+<!--JSON-->
 
+<P>¨trial¨</P>
+
+<script>
+submission.getAllSubmissions(¨trial¨).innerHTML=obj.submission[].studentId
+</script>
 let submission = ´{¨Submission¨ :[´ + ´{¨StudentId¨:Stm27}]};
 
 Const obj = JSON.parse(submission);
-
-
- 
 
