@@ -9,19 +9,18 @@
 	     <Studentid>Stmt27</Studentid>
       <Studentname>Suryatejamummaready</Studentname>
 	  
-	  
-	       </student>
+	 	       </student>
 	
 	
 	<submission>
-		<date>  </date>
-	<Subnr>	</Subnr>
-			<url></url>
+		<date> Date </date>
+	<Subnr>int</Subnr>
+			<url>url</url>
 		</submission>
 		
 		<module>
-			<code></code>
-			<term></term>
+			<code>int</code>
+			<term>string</term>
 			</module>
   
 
