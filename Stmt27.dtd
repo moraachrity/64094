@@ -7,11 +7,12 @@
   
   <!DOCTYPE studentSubm
 [
-<!ELEMENT Student (int StudentId,Url)>
-<!ELEMENT StudentID (¨Stm27¨)>
-<!ELEMENT SubNr (#GETDATA)>
-<!ELEMENT  URL(#GETDATA)>
-<!ELEMENT Code (#GETDATA)>
-<!ELEMENT Term (#GETDATA)>
+<!Student (int StudentId,Url URL)>
+<!Student StudentID (¨Stm27¨)>
+<!Submission SubNr (#getMySubmissions)>
+<!Submission URL(#getMySubmissions)>
+<!Module Code (#getMysubmissions)>
+<!Module Term (#getMySubmissions)>
 
 ]>
+
