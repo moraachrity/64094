@@ -5,9 +5,7 @@
 <P>¨trial¨</P>
 
 <script>
-submission.getAllSubmissions(¨trial¨).innerHTML=obj.submission[].studentId
+submission.getAllSubmissions(¨trial¨).innerHTML=obj.Submission[].studentId
 </script>
-let submission = ´{¨Submission¨ :[´ + ´{¨StudentId¨:Stm27}]};
 
-Const obj = JSON.parse(submission);
 
