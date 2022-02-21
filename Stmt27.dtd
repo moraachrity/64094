@@ -1,0 +1,17 @@
+# 64094
+
+<!--DTD-->
+
+<xml version=¨1.0¨ encoding=¨utf-8?>
+
+  
+  <!DOCTYPE studentSubm
+[
+<!ELEMENT Student (int StudentId,Url)>
+<!ELEMENT StudentID (¨Stm27¨)>
+<!ELEMENT SubNr (#GETDATA)>
+<!ELEMENT  URL(#GETDATA)>
+<!ELEMENT Code (#GETDATA)>
+<!ELEMENT Term (#GETDATA)>
+
+]>
