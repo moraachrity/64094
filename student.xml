@@ -3,6 +3,7 @@
    <!--XML-->
   
 <xml version=¨1.0¨ encoding=¨utf-8?>
+	<GetSubmissions>
 	
      <student>	
 	     <Studentid>Stmt27</Studentid>
@@ -29,3 +30,4 @@
 			</module>
   
 
+</GetSubmissions>
